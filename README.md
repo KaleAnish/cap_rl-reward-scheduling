@@ -1,1 +1,1 @@
-# cap_rl-reward-scheduling
+# RL Course Project — CapRL Rewards & Algorithms
